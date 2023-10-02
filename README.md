@@ -20,3 +20,13 @@ Feel free to connect with me on other platforms:
 
 ## 🌱 Goals
 I am continuously working on improving my skills and gaining experience in my areas of interest. My goals include:
+- Expanding my knowledge in graphic and UI/UX design.
+- Creating innovative web and mobile applications.
+- Collaborating on open-source projects.
+- Enhancing my leadership and communication skills.
+
+## 🤝 Let's Collaborate
+I'm always open to collaboration and networking opportunities. If you share similar interests or have exciting projects in mind, feel free to reach out!
+
+Thanks for visiting my GitHub profile! 😊
+
