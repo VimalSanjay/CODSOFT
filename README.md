@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vimal Sanjay
 
-I'm currently pursuing my Bachelor's in Computer Science and Engineering. My interests lie in various domains within the IT sector, including:
+I'm currently pursuing my Bachelor's in Computer Science and Engineering. My interests lie in various domains within the IT sector, including :
 
 - Graphic Design 🎨
 - UI/UX Design 💻
